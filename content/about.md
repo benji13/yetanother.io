@@ -3,6 +3,7 @@ date = "2015-09-19T14:40:16+02:00"
 draft = false 
 title = "About me"
 share = false
+comments = false
 
 +++
 
